@@ -6,5 +6,3 @@ My name is Anand & Enough of training for today, let us break!
 
 
 Work in progress
-
-Buggy code
